@@ -193,7 +193,7 @@ The `redis` service uses a public [Redis](https://registry.hub.docker.com/_/redi
 
     </div>
 
-    ![hello world in browser](/compose/images/quick-hello-world-1.png)
+    ![hello world in browser](https://raw.githubusercontent.com/itsazzad/docker-compose/master/quick-hello-world-1.png)
 
 3.  Refresh the page.
 
@@ -209,7 +209,7 @@ The `redis` service uses a public [Redis](https://registry.hub.docker.com/_/redi
 
     </div>
 
-    ![hello world in browser](/compose/images/quick-hello-world-2.png)
+    ![hello world in browser](https://raw.githubusercontent.com/itsazzad/docker-compose/master/quick-hello-world-2.png)
 
 4.  Switch to another terminal window, and type `docker image ls` to list local images.
 
@@ -307,7 +307,7 @@ Because the application code is now mounted into the container using a volume, y
 
 2.  Refresh the app in your browser. The greeting should be updated, and the counter should still be incrementing.
 
-    ![hello world in browser](/compose/images/quick-hello-world-3.png)
+    ![hello world in browser](https://raw.githubusercontent.com/itsazzad/docker-compose/master/quick-hello-world-3.png)
 
 ## Step 8: Experiment with some other commands
 
